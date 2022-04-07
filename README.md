@@ -45,7 +45,7 @@ pip install Pillow
 
 ### Android (Termux)
 Copy and paste this script below:
-```
+```sh
 pkg install python
 pip install Pillow
 pkg install ffmpeg
@@ -89,4 +89,4 @@ optional arguments:
 ```
 
 ## Note
-`ivscii` audio support and shell interpreter for Windows is disbaled due to inavailability of Windows machine (i had to guess the shtep). Sorry for the inconvenience
+`ivscii` audio support and shell interpreter for Windows is disbaled due to inavailability of Windows machine (i had to guess the step). Sorry for the inconvenience
