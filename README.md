@@ -18,7 +18,7 @@ A Python script to convert image or video into ASCII art. Basically replicating 
 ### Windows
 1. Download and install Python from [here](https://www.python.org/downloads/)
 2. Download and install FFmpeg from [here](https://www.ffmpeg.org/download.html)
-3. Download the source code of this repository [here]() and extract it somewhere on your drive
+3. Download the source code of this repository [here](https://github.com/hithere-at/ivscii/archive/refs/tags/v1.0.zip) and extract it somewhere on your drive
 4. Open your command prompt and type in 
 ```
 pip install Pillow
