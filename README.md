@@ -2,10 +2,10 @@
 A Python script to convert image or video into ASCII art. Basically replicating an image or video with some characters.
 
 ## Showcase
-<h2 align="center">Image</h2>
+### Image
 ![](https://github.com/hithere-at/ivscii/blob/master/examples/komi_ascii.jpg)
 
-<h2 align="center">Video</h2>
+### Video
 ![](https://github.com/hithere-at/ivscii/blob/master/examples/osu_lazer.gif)
 
 ## Requirements
