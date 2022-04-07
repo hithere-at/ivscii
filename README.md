@@ -89,4 +89,5 @@ optional arguments:
 ```
 
 ## Note
-`ivscii` audio support and shell interpreter for Windows is disbaled due to inavailability of Windows machine (i had to guess the step). Sorry for the inconvenience
+- `ivscii` audio support and shell interpreter for Windows is disbaled due to inavailability of Windows machine (i had to guess the step). Sorry for the inconvenience
+- For the love of god, PLEASE DO NOT MAKE ANY PULL REQUEST TO THIS REPOSITORY. Its too hard to clean the code, and if you make a code refactor pull request, you are an absolute madlad
