@@ -211,9 +211,12 @@ sleep({2})\n
 
 		tcls_data = []
 
+		if name == "nt": clr_cmd = "cls"
+		else: clr_cmd = "clear"
+
 		for i in range(frame_nums):
 			tcls_pre = time()
-			Popen("clear", stdout=DEVNULL).wait()
+			Popen(clr_cmd, stdout=DEVNULL).wait()
 			tcls_post = time()
 			tcls_delta = tcls_post - tcls_pre
 			tcls_data.append(tcls_delta)
