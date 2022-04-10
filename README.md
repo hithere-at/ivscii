@@ -19,9 +19,10 @@ A Python script to convert image or video into ASCII art. Basically replicating 
 1. Download and install Python from [here](https://www.python.org/downloads/)
 2. Download and install FFmpeg from [here](https://www.ffmpeg.org/download.html)
 3. Download the source code of this repository [here](https://github.com/hithere-at/ivscii/archive/refs/tags/v1.2.zip) and extract it somewhere on your drive
-4. Open your command prompt and type in 
+4. Open your cmd or PowerShell and type in 
 ```
 pip install Pillow
+pip install uni-curses
 ```
 
 5. Run the `ivscii.py` by typing in `python ivscii.py` on your command prompt followed by the arguments that you want to fill, it looks something like this: 
@@ -34,6 +35,7 @@ python ivscii.py -m 2 -w 100 -e 20 pictures/cute.jpg
 ### Linux
 1. Install Python using your package manager
 2. Install FFmpeg using your package manager
+3. Install git using your package manager in case you dont have one installed
 3. Install ncurses using your paclage manager in case you dont have one installed
 3. Install mpv using your package manager (if you plan to use the audio support)
 4. Copy and paste this script below: 
